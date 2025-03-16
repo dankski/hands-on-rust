@@ -1,5 +1,12 @@
 # hands-on-rust
+
 Accompany my book Hands-on-Rust
+
+## Requirements
+
+Following packages are needed:
+- sudo dnf install ncurses ncurses-devel (optional, use when no OpenGL)
+- sudo dnf install fontconfig-devel
 
 ## Compiling
 
